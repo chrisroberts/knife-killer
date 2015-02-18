@@ -1,4 +1,5 @@
 require 'knife-killer/version'
+require 'chef/api_client'
 
 module KnifeKiller
   module Common
